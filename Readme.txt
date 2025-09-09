@@ -1,1 +1,1 @@
-LearnWise Agent
+LearnWise Assistant
