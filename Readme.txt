@@ -1,1 +1,1 @@
-LearnWise Assistant
+LearnWise: Academic Assistant
