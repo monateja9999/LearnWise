@@ -1,1 +1,1 @@
-LearnWise: Academic Assistant using RAG and Agentic AI
+LearnWise : Academic Assistant using RAG and Agentic AI
